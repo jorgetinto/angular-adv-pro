@@ -29,6 +29,11 @@
 .w140 {
     width: 140px;
 }
+
+.w200 {
+    width: 200px;
+}
+
 .avatar {
     border-radius: 100%;
     width: 30px;
